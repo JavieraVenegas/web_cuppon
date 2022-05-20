@@ -1,0 +1,23 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: "Roboto";
+}
+
+.card-body {
+    font-weight: 300;
+    color: #707070;
+}
+
+.card-tittle {
+    font-weight: 300;
+    color: #212529;
+}
+
+.card-text {
+    font-weight: 300;
+}
+
+span {
+    color: #28a745;
+}
